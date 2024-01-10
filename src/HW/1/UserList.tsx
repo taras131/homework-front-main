@@ -2,7 +2,6 @@ type AddressType = {
     street: string; // ПОДПРАВЛЯЕМ any
     city: string; // ПОДПРАВЛЯЕМ any
 };
-
 type UserType = {
     id: number,
     name: string,
